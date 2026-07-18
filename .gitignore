@@ -1,3 +1,11 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+
+# Dataset files
+EduProCourses.csv
+EduProTeachers.csv
+EduProTransactions.csv
+EduProUsers.csv
+EduPro_Merged_Dataset.csv
